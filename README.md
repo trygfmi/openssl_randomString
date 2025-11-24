@@ -3,7 +3,9 @@
 
 
 
+<div class="wp-block-group">
 <p>このリポジトリは、opensslコマンドを実行してbase64でエンコードされたランダムな文字列を出力します</p>
+</div>
 
 
 
@@ -11,7 +13,9 @@
 
 
 
+<div class="wp-block-group">
 <p>特に無し</p>
+</div>
 
 
 
@@ -19,6 +23,7 @@
 
 
 
+<div class="wp-block-group">
 <p>opensslコマンドを実行してランダムな文字列を出力してみてください</p>
 
 
@@ -27,6 +32,7 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>openssl rand -base64 9 | head -c 10 | xargs</code></pre>
 
 
@@ -34,6 +40,7 @@
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
 </details>
+</div>
 
 
 
@@ -41,6 +48,7 @@
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">MacPorts</h4>
 
 
@@ -52,6 +60,7 @@
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
 </details>
+</div>
 
 
 
@@ -59,10 +68,12 @@
 
 
 
+<div class="wp-block-group">
 <h4 class="wp-block-heading">WSL2</h4>
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>openssl rand -base64 9 | head -c 10 | xargs</code></pre>
 
 
@@ -70,6 +81,7 @@
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
 </details>
+</div>
 
 
 
@@ -77,6 +89,7 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>openssl rand -base64 9 | head -c 10 | xargs</code></pre>
 
 
@@ -84,6 +97,9 @@
 <details class="wp-block-details"><summary>出力結果</summary>
 <pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
 </details>
+</div>
+</div>
+</div>
 
 
 
@@ -91,6 +107,7 @@
 
 
 
+<div class="wp-block-group">
 <h3 class="wp-block-heading">ubuntu</h3>
 
 
@@ -100,11 +117,13 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -112,11 +131,13 @@
 
 
 
+<div class="wp-block-group">
 <p>端末でcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -124,6 +145,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のようなbase64のランダムな文字列が出力されるはずです</p>
 
 
@@ -133,8 +155,9 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre></p>
 </details>
+</div>
 </details>
 
 
@@ -148,6 +171,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをターミナルに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -173,6 +197,7 @@
 
 
 [![MacPortsでインストールしたコマンドのエイリアス設定](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/thumbnail_macports2.png,)](https://ss523971.stars.ne.jp/todo/how-to-setup-macports-alias)
+</div>
 
 
 
@@ -180,11 +205,13 @@
 
 
 
+<div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -192,6 +219,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のようなbase64のランダムな文字列が出力されるはずです</p>
 
 
@@ -201,8 +229,9 @@
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre></p>
 </details>
+</div>
 </details>
 
 
@@ -216,6 +245,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドをプロンプトに打ち込んでcommand not foundが出なければokです</p>
 
 
@@ -245,6 +275,7 @@
 
 
 [![](https://ss523971.stars.ne.jp/todo/wp-content/uploads/2025/10/msys2_thumbnail_1920_1080.png)](https://ss523971.stars.ne.jp/todo/how-to-install-msys2)
+</div>
 
 
 
@@ -252,6 +283,7 @@
 
 
 
+<div class="wp-block-group">
 <p>プロンプトでcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
 
 
@@ -269,6 +301,7 @@
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>特にありません</code></pre>
+</div>
 
 
 
@@ -276,6 +309,7 @@
 
 
 
+<div class="wp-block-group">
 <p>以下のコマンドを実行することで詳細のようなbase64のランダムな文字列が出力されるはずです</p>
 
 
@@ -284,13 +318,15 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>openssl rand -base64 9 | head -c 10 | xargs</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre></p>
 </details>
+</div>
 
 
 
@@ -298,14 +334,18 @@
 
 
 
+<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>openssl rand -base64 9 | head -c 10 | xargs</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>DQhylbdoRt</code></pre></p>
 </details>
+</div>
+</div>
 </details>
+</div>
 
 
 
@@ -314,11 +354,3 @@
 
 
 <p>opensslやheadの9と10はバイト数で、9バイトから12文字を生成しheadで先頭から10バイト(10文字)分を表示しています</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
